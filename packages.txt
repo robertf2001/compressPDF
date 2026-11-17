@@ -1,3 +1,4 @@
 tesseract-ocr
 ghostscript
 qpdf
+pngquant
